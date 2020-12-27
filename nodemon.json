@@ -1,7 +1,7 @@
 {
     "env":{
-        "MONGO_ATLAS_INSTANCE":"nikhil",
-        "MONGO_ATLAS_PW":"asdfghjkl",
+        "MONGO_ATLAS_INSTANCE":"Database-Name",
+        "MONGO_ATLAS_PW":"Password",
         "DATABASE":"Ecommerce",
         "JWT_KEY":"Secret"
     }
